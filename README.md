@@ -21,7 +21,7 @@ This is a template repository for building a MERN stack (MongoDB, Express, React
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/mern-docker-template.git
+git clone [https://github.com/dolovesvw/mern-docker-template.git](https://github.com/dolovesvw/mern-docker-template.git)
 cd mern-docker-template
 ```
 
